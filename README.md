@@ -15,7 +15,7 @@ Resultados-ChatGPT
 |   |       CatalogoPrivacidad_Generado_SinConocimiento.pdf
 |   |       
 |   +---Chain of Thought
-|   |       Catalogo_ChainOfThrought.pdf
+|   |       Catalogo_ChainOfThought.pdf
 |   |       
 |   \---Internacionalizacion
 |           CatalogopPivacidad_Generado_CCPA_CPRA.pdf
@@ -29,7 +29,7 @@ Resultados-ChatGPT
 |   |       Requisitos_SaaS_HC_SinConocimiento (Sin Catalogo).pdf
 |   |       
 |   +---Chain of Thought
-|   |       Seleccion_ChainOfThrought.pdf
+|   |       Seleccion_ChainOfThought.pdf
 |   |       
 |   \---Internacionalizacion
 |           Requisitos_SaaS_HC_CCPA_CPRA (Con Catalogo).pdf
