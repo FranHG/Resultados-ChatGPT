@@ -10,6 +10,10 @@ La estructura de subdirectorios es la siguiente:
 Resultados-ChatGPT
 |   
 +---1. Catalogo de Requisitos
+|   +---Actualizacion
+|   |       CatalogoPrivacidad_RequisitosDesfasados.pdf
+|   |       CatalogoPrivacidad_Actualizado.pdf
+|   |       
 |   +---Basico
 |   |       CatalogoPrivacidad_Generado_ConConocimiento.pdf
 |   |       CatalogoPrivacidad_Generado_SinConocimiento.pdf
