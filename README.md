@@ -12,7 +12,7 @@ En el sexto directorio _Evaluación_, se trata la evaluación de los requisitos 
 pip install -r requirements.txt
 ```
 
-También contiene las entradas a dichi script y los resultados, tanto rescalado como sin rescalado.
+También contiene las entradas a dicho script y los resultados, tanto rescalado como sin rescalado.
 
 La estructura de subdirectorios es la siguiente:
 
@@ -104,8 +104,18 @@ Resultados-ChatGPT
     |
     +---Humano
     |   \---TFG FranMarquina Junio 2019
-    |           Candidatos.xlsx
-    |           Referencias.xlsx
+    |       |   Candidatos.xlsx
+    |       |   Referencias.xlsx
+    |       |   
+    |       +---Resultados
+    |       |       histograma_f1.png
+    |       |       lineas_metricas.png
+    |       |       resultados_bertscore.xlsx
+    |       |       
+    |       \---Resultados(Rescalado)
+    |               histograma_f1.png
+    |               lineas_metricas.png
+    |               resultados_bertscore.xlsx
     |
     \---LLM
         +---CatalogoPrivacidad Generado ConConocimiento
@@ -151,6 +161,16 @@ Resultados-ChatGPT
         |           resultados_bertscore.xlsx
         |
         \---Seleccion ChainOfThought
-                Candidatos.xlsx
-                Referencias.xlsx
+            |   Candidatos.xlsx
+            |   Referencias.xlsx
+            |   
+            +---Resultados
+            |       histograma_f1.png
+            |       lineas_metricas.png
+            |       resultados_bertscore.xlsx
+            |       
+            \---Resultados(Rescalado)
+                    histograma_f1.png
+                    lineas_metricas.png
+                    resultados_bertscore.xlsx
 ```
