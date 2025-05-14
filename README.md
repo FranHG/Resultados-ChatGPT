@@ -104,6 +104,121 @@ Resultados-ChatGPT
     |
     +---Humano
     |   \---TFG FranMarquina Junio 2019
+    |       +---Fuentes Independientes
+    |       |   |   Candidatos.xlsx
+    |       |   |   Referencias.xlsx
+    |       |   |   
+    |       |   +---Resultados
+    |       |   |       histograma_f1.png
+    |       |   |       lineas_metricas.png
+    |       |   |       resultados_bertscore.xlsx
+    |       |   |       
+    |       |   \---Resultados(Rescalado)
+    |       |           histograma_f1.png
+    |       |           lineas_metricas.png
+    |       |           resultados_bertscore.xlsx
+    |       |           
+    |       \---Fuentes Unificadas
+    |           |   Candidatos.xlsx
+    |           |   Referencias.xlsx
+    |           |   
+    |           +---Resultados
+    |           |       histograma_f1.png
+    |           |       lineas_metricas.png
+    |           |       resultados_bertscore.xlsx
+    |           |       
+    |           \---Resultados(Rescalado)
+    |                   histograma_f1.png
+    |                   lineas_metricas.png
+    |                   resultados_bertscore.xlsx
+    |  
+    +---LLM
+    |   +---Catalogo ChainOfThrought
+    |   |   +---Fuentes Independientes
+    |   |   |   |   Candidatos.xlsx
+    |   |   |   |   Referencias.xlsx
+    |   |   |   |   
+    |   |   |   +---Resultados
+    |   |   |   |       histograma_f1.png
+    |   |   |   |       lineas_metricas.png
+    |   |   |   |       resultados_bertscore.xlsx
+    |   |   |   |       
+    |   |   |   \---Resultados(Rescalado)
+    |   |   |           histograma_f1.png
+    |   |   |           lineas_metricas.png
+    |   |   |           resultados_bertscore.xlsx
+    |   |   |           
+    |   |   +---Fuentes Independientes Mejoradas
+    |   |   |   |   Candidatos.xlsx
+    |   |   |   |   Referencias.xlsx
+    |   |   |   |   
+    |   |   |   +---Resultados
+    |   |   |   |       histograma_f1.png
+    |   |   |   |       lineas_metricas.png
+    |   |   |   |       resultados_bertscore.xlsx
+    |   |   |   |       
+    |   |   |   \---Resultados(Rescalado)
+    |   |   |           histograma_f1.png
+    |   |   |           lineas_metricas.png
+    |   |   |           resultados_bertscore.xlsx
+    |   |   |           
+    |   |   \---Fuentes Unificadas
+    |   |       |   Candidatos.xlsx
+    |   |       |   Referencias.xlsx
+    |   |       |   
+    |   |       +---Resultados
+    |   |       |       histograma_f1.png
+    |   |       |       lineas_metricas.png
+    |   |       |       resultados_bertscore.xlsx
+    |   |       |       
+    |   |       \---Resultados(Rescalado)
+    |   |               histograma_f1.png
+    |   |               lineas_metricas.png
+    |   |               resultados_bertscore.xlsx
+    |   |               
+    |   +---CatalogoPrivacidad Generado ConConocimiento
+    |   |   |   Candidatos.xlsx
+    |   |   |   Referencias.xlsx
+    |   |   |   
+    |   |   +---Resultados
+    |   |   |       histograma_f1.png
+    |   |   |       lineas_metricas.png
+    |   |   |       resultados_bertscore.xlsx
+    |   |   |       
+    |   |   \---Resultados(Rescalado)
+    |   |           histograma_f1.png
+    |   |           lineas_metricas.png
+    |   |           resultados_bertscore.xlsx
+    |   |           
+    |   +---Requisitos SaaS HC ConConocimiento (Con Catalogo)
+    |   |   |   Candidatos.xlsx
+    |   |   |   Referencias.xlsx
+    |   |   |   
+    |   |   +---Resultados
+    |   |   |       histograma_f1.png
+    |   |   |       lineas_metricas.png
+    |   |   |       resultados_bertscore.xlsx
+    |   |   |       
+    |   |   \---Resultados(Rescalado)
+    |   |           histograma_f1.png
+    |   |           lineas_metricas.png
+    |   |           resultados_bertscore.xlsx
+    |   |           
+    |   +---Requisitos SaaS HC ConConocimiento (Sin Catalogo)
+    |   |   |   Candidatos.xlsx
+    |   |   |   Referencias.xlsx
+    |   |   |   
+    |   |   +---Resultados
+    |   |   |       histograma_f1.png
+    |   |   |       lineas_metricas.png
+    |   |   |       resultados_bertscore.xlsx
+    |   |   |       
+    |   |   \---Resultados(Rescalado)
+    |   |           histograma_f1.png
+    |   |           lineas_metricas.png
+    |   |           resultados_bertscore.xlsx
+    |   |           
+    |   \---Seleccion ChainOfThought
     |       |   Candidatos.xlsx
     |       |   Referencias.xlsx
     |       |   
@@ -116,61 +231,18 @@ Resultados-ChatGPT
     |               histograma_f1.png
     |               lineas_metricas.png
     |               resultados_bertscore.xlsx
-    |
-    \---LLM
-        +---CatalogoPrivacidad Generado ConConocimiento
-        |   |   Candidatos.xlsx
-        |   |   Referencias.xlsx
-        |   |
-        |   +---Resultados
-        |   |       histograma_f1.png
-        |   |       lineas_metricas.png
-        |   |       resultados_bertscore.xlsx
-        |   |
-        |   \---Resultados(Rescalado)
-        |           histograma_f1.png
-        |           lineas_metricas.png
-        |           resultados_bertscore.xlsx
-        |
-        +---Requisitos SaaS HC ConConocimiento (Con Catalogo)
-        |   |   Candidatos.xlsx
-        |   |   Referencias.xlsx
-        |   |
-        |   +---Resultados
-        |   |       histograma_f1.png
-        |   |       lineas_metricas.png
-        |   |       resultados_bertscore.xlsx
-        |   |
-        |   \---Resultados(Rescalado)
-        |           histograma_f1.png
-        |           lineas_metricas.png
-        |           resultados_bertscore.xlsx
-        |
-        +---Requisitos SaaS HC ConConocimiento (Sin Catalogo)
-        |   |   Candidatos.xlsx
-        |   |   Referencias.xlsx
-        |   |
-        |   +---Resultados
-        |   |       histograma_f1.png
-        |   |       lineas_metricas.png
-        |   |       resultados_bertscore.xlsx
-        |   |
-        |   \---Resultados(Rescalado)
-        |           histograma_f1.png
-        |           lineas_metricas.png
-        |           resultados_bertscore.xlsx
-        |
-        \---Seleccion ChainOfThought
-            |   Candidatos.xlsx
-            |   Referencias.xlsx
-            |   
-            +---Resultados
-            |       histograma_f1.png
-            |       lineas_metricas.png
-            |       resultados_bertscore.xlsx
+    |               
+    \---Resultados
+        \---Resultados Catalogo ChainOfThrought-TFG FranMarquina Junio 2019
+            +---Resultados Fuentes Independientes
+            |       Resultados Fuentes Independientes.pdf
+            |       Resultados Fuentes Independientes.spv
             |       
-            \---Resultados(Rescalado)
-                    histograma_f1.png
-                    lineas_metricas.png
-                    resultados_bertscore.xlsx
+            +---Resultados Fuentes Independientes Mejoradas
+            |       Resultados Fuentes Independientes Mejoradas.pdf
+            |       Resultados Fuentes Independientes Mejoradas.spv
+            |       
+            \---Resultados Fuentes Unificadas
+                    Resultados Fuentes Unificadas.pdf
+                    Resultados Fuentes Unificadas.spv
 ```
