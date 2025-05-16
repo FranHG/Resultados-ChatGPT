@@ -93,10 +93,10 @@ Resultados-ChatGPT
 |   |
 |   \---LLM
 |           Trazabilidad_CatalogoPrivacidad_Generado_ConConocimiento.xlsx
+|           Trazabilidad_catalogo_chain_of_thought.xlsx
 |           Trazabilidad_Requisitos_SaaS_HC_ConConocimiento (Con Catalogo).xlsx
 |           Trazabilidad_Requisitos_SaaS_HC_ConConocimiento (Sin Catalogo)l.xlsx
 |           Trazabilidad_Seleccion_ChainOfThought.xlsx
-|
 \---6. Evaluación
     +---Código
     |       comparar_bert_score.py
@@ -133,7 +133,7 @@ Resultados-ChatGPT
     |                   resultados_bertscore.xlsx
     |
     +---LLM
-    |   +---Catalogo ChainOfThrought
+    |   +---Catalogo ChainOfThought
     |   |   +---Fuentes Independientes
     |   |   |   |   Candidatos.xlsx
     |   |   |   |   Referencias.xlsx
@@ -233,7 +233,7 @@ Resultados-ChatGPT
     |               resultados_bertscore.xlsx
     |
     \---Resultados
-        \---Resultados Catalogo ChainOfThrought-PDP2019
+        \---Resultados Catalogo ChainOfThought-PDP2019
             +---Resultados Fuentes Independientes
             |       Resultados Fuentes Independientes.pdf
             |       Resultados Fuentes Independientes.spv
